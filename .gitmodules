@@ -1,0 +1,12 @@
+[submodule "fitness_app_api_core"]
+	path = fitness_app_api_core
+	url = https://github.com/Andriana20035/fitness_app_api_core.git
+[submodule "fitness_app"]
+	path = fitness_app
+	url = https://github.com/Andriana20035/fitness_app.git
+[submodule "fitness_app_state_management"]
+	path = fitness_app_state_management
+	url = https://github.com/Andriana20035/fitness_app_state_management.git
+[submodule "consum_combustibil_flutter"]
+	path = consum_combustibil_flutter
+	url = https://github.com/Andriana20035/consum_combustibil_flutter.git
